@@ -6,35 +6,35 @@ I am a first-year PhD student at MIT working with [PDOS](https://pdos.csail.mit.
 
 #### Programmable IO Device
 
-1. __INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive__<br>
+1. _INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong<Br>
 To appear at 2019 USENIX Annual Technical Conference ([USENIX ATC'19](https://www.usenix.org/conference/atc19))<br>
 
-2. __Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform__<br>
+2. _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong.<br>
 To appear at  2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
 
-3. __KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC__<br>
+3. _KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC_<br>
 Bojie Li*, __Zhenyuan Ruan* (co-first authors)__, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, Andrew Putnam, Enhong Chen, Lintao Zhang<br>
 In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](https://www.sigops.org/s/conferences/sosp/2017/))
 
-4. __Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter__<br>
+4. _Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter_<br>
 Yuanwei Lu, Guo Chen, __Zhenyuan Ruan__, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, Peng Cheng, Enhong Chen<br>
 In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](https://conferences.sigcomm.org/events/apnet2017/program.html))
 
 #### FPGA
   
-1. __Hardware Acceleration of Long Read Pairwise Overlapping in Genome Sequencing: A Race Between FPGA and GPU__<br>
+1. _Hardware Acceleration of Long Read Pairwise Overlapping in Genome Sequencing: A Race Between FPGA and GPU_<br>
 Licheng Guo, Ka Cheong Jason Lau, __Zhenyuan Ruan__, Peng Wei and Jason Cong<br>
 2019 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'19](http://www.fccm.org/past/2019/))<br>
 
-2. __ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA__<br>
+2. _ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA_<br>
 __Zhenyuan Ruan__, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 2018 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'18](http://www.fccm.org/past/2018/))<br>
 
 #### Miscellaneous
 
-1. __Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework__<br>
+1. _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, __Zhenyuan Ruan__, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
 IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
 __Best paper nominee__
