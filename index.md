@@ -17,7 +17,7 @@ __Zhenyuan Ruan__, Tong He and Jason Cong.<br>
 2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
 
 3. _KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC_<br>
-Bojie Li*, __Zhenyuan Ruan* (co-first authors)__, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, Andrew Putnam, Enhong Chen, Lintao Zhang<br>
+Bojie Li*, __Zhenyuan Ruan*__, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, Andrew Putnam, Enhong Chen, Lintao Zhang (__\*:co-first authors__)<br>
 In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](https://www.sigops.org/s/conferences/sosp/2017/))
 
 4. _Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter_<br>
