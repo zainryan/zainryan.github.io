@@ -1,6 +1,4 @@
-## Zain (Zhenyuan) Ruan
-
-![alt text](https://media.licdn.com/dms/image/C5103AQF_C12McNaXIA/profile-displayphoto-shrink_200_200/0?e=1566432000&v=beta&t=BL9AmjjoMIlyQZyKatKfZjoDg6SpUumzner2UvzRkJ4)
+## Homepage
 
 I am a first-year PhD student at MIT working with [PDOS](https://pdos.csail.mit.edu/) folks. I am interested in system and networking. Previously, I did research on programmable IO device (NIC and storage drive) with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) and [Dr. Lintao Zhang](https://scholar.google.com/citations?user=BSa0rkwAAAAJ&hl=en). Now I focus on fighting with [Attack of the Killer Microseconds](http://www.barroso.org/publications/AttackoftheKillerMicroseconds.pdf).
 
