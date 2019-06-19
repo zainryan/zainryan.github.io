@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Zain (Zhenyuan) Ruan
 
-You can use the [editor on GitHub](https://github.com/zainryan/zainryan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a first-year PhD student at MIT working with [PDOS](https://pdos.csail.mit.edu/) folks. I am interested in system and networking. Previously, I did research on programmable IO device (NIC and storage drive) with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) and [Dr. Lintao Zhang](https://scholar.google.com/citations?user=BSa0rkwAAAAJ&hl=en). Now I focus on fighting with [Attack of the Killer Microseconds](http://www.barroso.org/publications/AttackoftheKillerMicroseconds.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
 
-### Markdown
+#### Programmable IO Device
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. __INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive__<br>
+__Zhenyuan Ruan__, Tong He and Jason Cong<Br>
+To appear at 2019 USENIX Annual Technical Conference ([USENIX ATC'19](https://www.usenix.org/conference/atc19))<br>
 
-```markdown
-Syntax highlighted code block
+2. __Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform__<br>
+__Zhenyuan Ruan__, Tong He and Jason Cong.<br>
+To appear at  2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
 
-# Header 1
-## Header 2
-### Header 3
+3. __KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC__<br>
+Bojie Li*, __Zhenyuan Ruan* (co-first authors)__, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, Andrew Putnam, Enhong Chen, Lintao Zhang<br>
+In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](https://www.sigops.org/s/conferences/sosp/2017/))
 
-- Bulleted
-- List
+4. __Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter__<br>
+Yuanwei Lu, Guo Chen, __Zhenyuan Ruan__, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, Peng Cheng, Enhong Chen<br>
+In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](https://conferences.sigcomm.org/events/apnet2017/program.html))
 
-1. Numbered
-2. List
+#### FPGA
+  
+1. __Hardware Acceleration of Long Read Pairwise Overlapping in Genome Sequencing: A Race Between FPGA and GPU__<br>
+Licheng Guo, Ka Cheong Jason Lau, __Zhenyuan Ruan__, Peng Wei and Jason Cong<br>
+2019 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'19](http://www.fccm.org/past/2019/))<br>
 
-**Bold** and _Italic_ and `Code` text
+2. __ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA__<br>
+__Zhenyuan Ruan__, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
+2018 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'18](http://www.fccm.org/past/2018/))<br>
 
-[Link](url) and ![Image](src)
-```
+#### Miscellaneous
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zainryan/zainryan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. __Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework__<br>
+Peipei Zhou, __Zhenyuan Ruan__, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
+IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
+__Best paper nominee__
