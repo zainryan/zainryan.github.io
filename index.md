@@ -1,10 +1,8 @@
-## Homepage
-
 I am a first-year CS PhD student at MIT working with [PDOS](https://pdos.csail.mit.edu/) folks. I am interested in system and networking. Previously, I did research on programmable IO device (NIC and storage drive) with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) and [Dr. Lintao Zhang](https://scholar.google.com/citations?user=BSa0rkwAAAAJ&hl=en). Now I focus on fighting with [Attack of the Killer Microseconds](http://www.barroso.org/publications/AttackoftheKillerMicroseconds.pdf).
 
-### Publications
+## Publications
 
-#### Programmable IO Device
+### Programmable IO Device
 
 1. _INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong<Br>
@@ -22,7 +20,7 @@ In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](
 Yuanwei Lu, Guo Chen, __Zhenyuan Ruan__, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, Peng Cheng, Enhong Chen<br>
 In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](https://conferences.sigcomm.org/events/apnet2017/program.html))
 
-#### FPGA
+### FPGA
   
 1. _Hardware Acceleration of Long Read Pairwise Overlapping in Genome Sequencing: A Race Between FPGA and GPU_<br>
 Licheng Guo, Ka Cheong Jason Lau, __Zhenyuan Ruan__, Peng Wei and Jason Cong<br>
@@ -32,7 +30,7 @@ Licheng Guo, Ka Cheong Jason Lau, __Zhenyuan Ruan__, Peng Wei and Jason Cong<br>
 __Zhenyuan Ruan__, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 2018 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'18](http://www.fccm.org/past/2018/))<br>
 
-#### Miscellaneous
+### Miscellaneous
 
 1. _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, __Zhenyuan Ruan__, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
