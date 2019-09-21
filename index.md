@@ -4,13 +4,13 @@ I am a first-year CS PhD student at [MIT CSAIL](https://www.csail.mit.edu/) work
 
 ### Programmable IO Device
 
-1. _INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive_<br>
-__Zhenyuan Ruan__, Tong He and Jason Cong<Br>
-2019 USENIX Annual Technical Conference ([USENIX ATC'19](https://www.usenix.org/conference/atc19))<br>
-
-2. __[Best Paper Candidate]__ _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
+1. __[Best Paper Candidate]__ _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong.<br>
 2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
+
+2. _INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive_<br>
+__Zhenyuan Ruan__, Tong He and Jason Cong<Br>
+2019 USENIX Annual Technical Conference ([USENIX ATC'19](https://www.usenix.org/conference/atc19))<br>
 
 3. _KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC_<br>
 Bojie Li*, __Zhenyuan Ruan*__, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, Andrew Putnam, Enhong Chen, Lintao Zhang (__\*:co-first authors__)<br>
