@@ -32,7 +32,6 @@ __Zhenyuan Ruan__, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 
 ### Miscellaneous
 
-1. _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
+1. __[Best paper nominee]__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, __Zhenyuan Ruan__, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
 IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
-__Best paper nominee__
