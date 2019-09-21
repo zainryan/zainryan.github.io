@@ -8,7 +8,7 @@ I am a first-year CS PhD student at [MIT CSAIL](https://www.csail.mit.edu/) work
 __Zhenyuan Ruan__, Tong He and Jason Cong<Br>
 2019 USENIX Annual Technical Conference ([USENIX ATC'19](https://www.usenix.org/conference/atc19))<br>
 
-2. _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
+2. __[Best Paper Candidate]__ _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong.<br>
 2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
 
