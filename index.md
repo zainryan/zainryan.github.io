@@ -4,7 +4,7 @@ I am a first-year CS PhD student at [MIT CSAIL](https://www.csail.mit.edu/) work
 
 ### Programmable IO Device
 
-1. __[Best Paper Candidate]__ _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
+1. __[Best Paper Award]__ _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong.<br>
 2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
 
