@@ -1,10 +1,9 @@
 I am a first-year CS PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [PDOS](https://pdos.csail.mit.edu/) folks. I am generally interested in system and networking. Previously, I did research on FPGA and programmable IO device (NIC and storage drive) with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) and [Dr. Lintao Zhang](https://scholar.google.com/citations?user=BSa0rkwAAAAJ&hl=en). Now I focus on fighting with [Attack of the Killer Microseconds](http://www.barroso.org/publications/AttackoftheKillerMicroseconds.pdf).
 
 ## Publications
-
+★ indicates an awarded paper.
 ### Programmable IO Device
-
-1. <span style="color:red">__[Best Paper Award]__</span> _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
+1. __★[Best Paper Award]__ _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong.<br>
 2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
 
@@ -30,8 +29,8 @@ Licheng Guo, Ka Cheong Jason Lau, __Zhenyuan Ruan__, Peng Wei and Jason Cong<br>
 __Zhenyuan Ruan__, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 2018 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'18](http://www.fccm.org/past/2018/))<br>
 
-### Miscellaneous
+### Performance Analysis
 
-1. <span style="color:red">__[Best Paper nominee]__</span> _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
+1. __★[Best Paper nominee]__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, __Zhenyuan Ruan__, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
 IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
