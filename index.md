@@ -19,6 +19,12 @@ In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](
 Yuanwei Lu, Guo Chen, __Zhenyuan Ruan__, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, Peng Cheng, Enhong Chen<br>
 In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](https://conferences.sigcomm.org/events/apnet2017/program.html))
 
+### Performance Analysis
+
+1. __★[Best Paper nominee]__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
+Peipei Zhou, __Zhenyuan Ruan__, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
+IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
+
 ### FPGA
   
 1. _Hardware Acceleration of Long Read Pairwise Overlapping in Genome Sequencing: A Race Between FPGA and GPU_<br>
@@ -28,9 +34,3 @@ Licheng Guo, Ka Cheong Jason Lau, __Zhenyuan Ruan__, Peng Wei and Jason Cong<br>
 2. _ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA_<br>
 __Zhenyuan Ruan__, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 2018 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'18](http://www.fccm.org/past/2018/))<br>
-
-### Performance Analysis
-
-1. __★[Best Paper nominee]__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
-Peipei Zhou, __Zhenyuan Ruan__, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
-IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
