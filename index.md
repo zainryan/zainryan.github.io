@@ -4,7 +4,7 @@ I am a first-year CS PhD student at [MIT CSAIL](https://www.csail.mit.edu/) work
 
 ### Programmable IO Device
 
-1. __[Best Paper Award]__ _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
+1. <span style="color:red">__[Best Paper Award]__</span> _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong.<br>
 2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
 
@@ -32,6 +32,6 @@ __Zhenyuan Ruan__, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 
 ### Miscellaneous
 
-1. __[Best paper nominee]__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
+1. <span style="color:red">__[Best Paper nominee]__</span> _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, __Zhenyuan Ruan__, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
 IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
