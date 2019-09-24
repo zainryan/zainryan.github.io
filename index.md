@@ -1,4 +1,8 @@
-I am a first-year CS PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [PDOS](https://pdos.csail.mit.edu/) folks. I am generally interested in system and networking. Previously, I did research on FPGA and programmable IO device (NIC and storage drive) with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) and [Dr. Lintao Zhang](https://scholar.google.com/citations?user=BSa0rkwAAAAJ&hl=en). Now I focus on fighting with [Attack of the Killer Microseconds](http://www.barroso.org/publications/AttackoftheKillerMicroseconds.pdf).
+I am a first-year CS PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [PDOS](https://pdos.csail.mit.edu/) folks. I am generally interested in __system and networking__.
+
+Previously, I did research on FPGA and programmable IO device (NIC and storage drive) with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) and [Dr. Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/). 
+
+Now I focus on fighting with [Attack of the Killer Microseconds](http://www.barroso.org/publications/AttackoftheKillerMicroseconds.pdf).
 
 ## Publications
 ★ indicates an awarded paper.
