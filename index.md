@@ -7,9 +7,10 @@ Now I focus on fighting with [Attack of the Killer Microseconds](http://www.barr
 ## Publications
 ★ indicates an awarded paper.
 ### Programmable IO Device
-1. __★[Best Paper Award]__ _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
+1. __★__ _Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong.<br>
 2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
+__Best Paper Award__
 
 2. _INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive_<br>
 __Zhenyuan Ruan__, Tong He and Jason Cong<Br>
@@ -25,9 +26,10 @@ In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](http
 
 ### Performance Analysis
 
-1. __★[Best Paper nominee]__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
+1. __★__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, __Zhenyuan Ruan__, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
 IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
+__Best Paper nominee__
 
 ### FPGA
   
