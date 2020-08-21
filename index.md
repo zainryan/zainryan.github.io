@@ -54,7 +54,7 @@ Zhenyuan Ruan, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 
 1. Software Engineering Intern @ Google Mountain View, Ads Data Infrastructure Team. <br>
 Worked on a geo-distributed low-latency streaming system. <br>
-June. 2018 - Sept. 2018. <br>
+Jun. 2018 - Sept. 2018. <br>
 
 2. Research Intern. Microsoft Research Asia, System Group. <br>
 Built a high-performance in-memory key-value system with programmable NIC. <br>
