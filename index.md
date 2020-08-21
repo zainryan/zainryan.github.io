@@ -50,7 +50,7 @@ Licheng Guo, Ka Cheong Jason Lau, Zhenyuan Ruan, Peng Wei and Jason Cong<br>
 Zhenyuan Ruan, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 2018 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'18](http://www.fccm.org/past/2018/))<br>
 
-### Experience
+## Experience
 
 1. Software Engineering Intern @ Google Mountain View, Ads Data Infrastructure Team. <br>
 Worked on a geo-distributed low-latency streaming system. <br>
@@ -60,7 +60,7 @@ June. 2018 - Sept. 2018. <br>
 Built a high-performance in-memory key-value system with programmable NIC. <br>
 Oct. 2016 - May. 2017.<br>
 
-### Activities  
+## Activities  
 
 External Reviewer [IPDPS 2019](http://www.ipdps.org/ipdps2019/2019-.html)<br>
 External Reviewer [DATE 2019](https://past.date-conference.com/proceedings-archive/2019/)<br>
