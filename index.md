@@ -6,16 +6,16 @@ I am a second-year CS PhD student in the [PDOS](https://pdos.csail.mit.edu/) lab
 ### Disaggregated Memory
 1. _AIFM: High-Performance, Application-Integrated Far Memory_<br>
 Zhenyuan Ruan, Malte Schwarzkopf, Marcos Aguilera, Adam Belay<br>
-The 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI '20)<br>
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
 2. _Semeru: A Memory-Disaggregated Managed Runtime_<br>
 Chenxi Wang, Haoran Ma, Shi Liu, Yuanqi Li, Zhenyuan Ruan, Khanh Nguyen, Michael Bond, Ravi Netravali, Miryung Kim, and Guoqing Harry Xu<br>
-The 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI '20)<br>
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
 ### Cloud Efficiency
 1. _Caladan: Mitigating Interference at Microsecond Timescales_<br>
 Joshua Fried, Zhenyuan Ruan, Amy Ousterhout, Adam Belay<br>
-The 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI '20)<br>
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
 2. __★__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, Zhenyuan Ruan, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
@@ -56,7 +56,7 @@ Zhenyuan Ruan, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 Worked on a geo-distributed low-latency streaming system. <br>
 Jun. 2018 - Sept. 2018. <br>
 
-2. Research Intern. Microsoft Research Asia, System Group. <br>
+2. Research Intern. Microsoft Research Asia, [System Group](https://www.microsoft.com/en-us/research/group/systems-research-group-asia/). <br>
 Built a high-performance in-memory key-value system with programmable NIC. <br>
 Oct. 2016 - May. 2017.<br>
 
