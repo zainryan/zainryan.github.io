@@ -40,7 +40,6 @@ In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](
 Yuanwei Lu, Guo Chen, Zhenyuan Ruan, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, Peng Cheng, Enhong Chen<br>
 In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](https://conferences.sigcomm.org/events/apnet2017/program.html))
 
-
 ### FPGA System
   
 1. _Hardware Acceleration of Long Read Pairwise Overlapping in Genome Sequencing: A Race Between FPGA and GPU_<br>
@@ -50,3 +49,22 @@ Licheng Guo, Ka Cheong Jason Lau, Zhenyuan Ruan, Peng Wei and Jason Cong<br>
 2. _ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA_<br>
 Zhenyuan Ruan, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 2018 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'18](http://www.fccm.org/past/2018/))<br>
+
+### Experience
+
+1. Software Engineering Intern @ Google Mountain View, Ads Data Infrastructure Team. <br>
+Worked on a geo-distributed low-latency streaming system. <br>
+June. 2018 - Sept. 2018. <br>
+
+2. Research Intern. Microsoft Research Asia, System Group. <br>
+Built a high-performance in-memory key-value system with programmable NIC. <br>
+Oct. 2016 - May. 2017.<br>
+
+### Activities  
+
+External Reviewer [IPDPS 2019](http://www.ipdps.org/ipdps2019/2019-.html)<br>
+External Reviewer [DATE 2019](https://past.date-conference.com/proceedings-archive/2019/)<br>
+External Reviewer [FPT 2018](http://www.fpt18.sakura.ne.jp/)<br>
+External Reviewer [FCCM 2018](http://www.fccm.org/past/2018/)<br>
+
+Reviewer [IEEE TC](https://www.computer.org/csdl/journal/tc)<br>
