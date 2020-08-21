@@ -1,4 +1,4 @@
-I am a second-year CS PhD student in the [PDOS](https://pdos.csail.mit.edu/) lab at, advised by [Prof. Adam Belay](http://www.abelay.me/). I am interested in operating system, distributed system and hardware/software co-design. Before attending MIT, I worked on programmable IO device with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) at UCLA and [Dr. Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/) at MSR-Asia.
+I am a second-year CS PhD student in the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, advised by [Prof. Adam Belay](http://www.abelay.me/). I am interested in operating system, distributed system and hardware/software co-design. Before attending MIT, I worked on programmable IO device with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) at UCLA and [Dr. Lintao Zhang](https://www.microsoft.com/en-us/research/people/lintaoz/) at MSR-Asia.
 
 ## Publications
 ★ indicates an awarded paper.
