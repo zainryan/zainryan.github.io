@@ -35,7 +35,7 @@ Zhenyuan Ruan, Tong He and Jason Cong<Br>
 2019 USENIX Annual Technical Conference ([USENIX ATC'19](https://www.usenix.org/conference/atc19))<br>
 
 3. _KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC_<br>
-Bojie Li\*, Zhenyuan Ruan\*, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, Andrew Putnam, Enhong Chen, Lintao Zhang (__\*:co-first authors__)<br>
+Bojie Li\*, Zhenyuan Ruan\*, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, Andrew Putnam, Enhong Chen, Lintao Zhang (\*:co-first authors)<br>
 In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](https://www.sigops.org/s/conferences/sosp/2017/))
 
 4. _Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter_<br>
