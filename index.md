@@ -54,7 +54,7 @@ Zhenyuan Ruan, Tong He, Bojie Li, Peipei Zhou and Jason Cong<br>
 
 ## Experience
 
-1. Software Engineering Intern @ Google Mountain View, Ads Data Infrastructure Team. <br>
+1. Software Engineering Intern. Google Mountain View, Ads Data Infrastructure Team. <br>
 Worked on a geo-distributed low-latency streaming system. <br>
 Jun. 2018 - Sept. 2018. <br>
 
