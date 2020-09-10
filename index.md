@@ -73,4 +73,4 @@ Reviewer [IEEE TC](https://www.computer.org/csdl/journal/tc)<br>
 
 ## Teaching
 
-Teaching Assistance of MIT [6.828 Operating Systems Research Seminar](https://abelay.github.io/6828seminar/index.html).
+Teaching Assistant of MIT [6.828 Operating Systems Research Seminar](https://abelay.github.io/6828seminar/index.html).
