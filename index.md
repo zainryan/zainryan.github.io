@@ -62,7 +62,7 @@ Jun. 2018 - Sept. 2018. <br>
 Built a high-performance in-memory key-value system with programmable NIC. <br>
 Oct. 2016 - May. 2017.<br>
 
-## Activities  
+## Service  
 
 External Reviewer [IPDPS 2019](http://www.ipdps.org/ipdps2019/2019-.html)<br>
 External Reviewer [DATE 2019](https://past.date-conference.com/proceedings-archive/2019/)<br>
