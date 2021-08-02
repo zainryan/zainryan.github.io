@@ -1,4 +1,4 @@
-I am a third-year CS PhD student in the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, advised by [Prof. Adam Belay](http://www.abelay.me/). I am interested in operating system, distributed system, and hardware/software co-design.<br>
+I am a third-year CS PhD candidate in the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, advised by [Prof. Adam Belay](http://www.abelay.me/). I am interested in operating system, distributed system, and hardware/software co-design.<br>
 
 Before attending MIT, I worked on FPGA/programmable IO device with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) at UCLA and [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang-405a7648/?originalSubdomain=cn) at MSR-Asia.
 
