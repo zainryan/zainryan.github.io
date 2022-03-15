@@ -1,25 +1,29 @@
+(Last update: Mar 15, 2022)
+
 I am a third-year CS PhD candidate in the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, advised by [Prof. Adam Belay](http://www.abelay.me/). I am interested in operating system, distributed system, and hardware/software co-design.<br>
 
-Before attending MIT, I worked on FPGA/programmable IO device with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) at UCLA and [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang-405a7648/?originalSubdomain=cn) at MSR-Asia.
+Before MIT, I worked on FPGA/programmable IO device with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) at UCLA and [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang-405a7648/?originalSubdomain=cn) at MSR-Asia.
 
 ## Publications
-★ indicates an awarded paper.
 
-### Disaggregated Memory
-1. _AIFM: High-Performance, Application-Integrated Far Memory_<br>
+### Cloud Efficiency
+
+1. Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes<br>
+Under Submission<br>
+
+2. _AIFM: High-Performance, Application-Integrated Far Memory_<br>
 Zhenyuan Ruan, Malte Schwarzkopf, Marcos Aguilera, Adam Belay<br>
 The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
-2. _Semeru: A Memory-Disaggregated Managed Runtime_<br>
+3. _Semeru: A Memory-Disaggregated Managed Runtime_<br>
 Chenxi Wang, Haoran Ma, Shi Liu, Yuanqi Li, Zhenyuan Ruan, Khanh Nguyen, Michael Bond, Ravi Netravali, Miryung Kim, and Guoqing Harry Xu<br>
 The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
-### Cloud Efficiency
-1. _Caladan: Mitigating Interference at Microsecond Timescales_<br>
+4. _Caladan: Mitigating Interference at Microsecond Timescales_<br>
 Joshua Fried, Zhenyuan Ruan, Amy Ousterhout, Adam Belay<br>
 The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
-2. __★__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
+5. __★__ _Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, Zhenyuan Ruan, Zhenman Fang, Jason Cong, Megan Shand, David Roazen <br>
 IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
 __Best Paper Nominee__
@@ -42,7 +46,7 @@ In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](
 Yuanwei Lu, Guo Chen, Zhenyuan Ruan, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, Peng Cheng, Enhong Chen<br>
 In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](https://conferences.sigcomm.org/events/apnet2017/program.html))
 
-### FPGA System
+### FPGA
   
 1. _Hardware Acceleration of Long Read Pairwise Overlapping in Genome Sequencing: A Race Between FPGA and GPU_<br>
 Licheng Guo, Ka Cheong Jason Lau, Zhenyuan Ruan, Peng Wei and Jason Cong<br>
@@ -64,11 +68,14 @@ Oct. 2016 - May. 2017.<br>
 
 ## Service  
 
+PC Member [APSys 2022](https://apsys2022.comp.nus.edu.sg/organization.html)
+
+Vice Session Char of "Resource allocation" [SOSP 2021](https://sosp2021.mpi-sws.org/program.html)<br>
+
 External Reviewer [IPDPS 2019](http://www.ipdps.org/ipdps2019/2019-.html)<br>
 External Reviewer [DATE 2019](https://past.date-conference.com/proceedings-archive/2019/)<br>
 External Reviewer [FPT 2018](http://www.fpt18.sakura.ne.jp/)<br>
 External Reviewer [FCCM 2018](http://www.fccm.org/past/2018/)<br>
-
 Reviewer [IEEE TC](https://www.computer.org/csdl/journal/tc)<br>
 
 ## Teaching
