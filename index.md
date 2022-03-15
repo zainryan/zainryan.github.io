@@ -68,10 +68,8 @@ Oct. 2016 - May. 2017.<br>
 
 ## Service  
 
-PC Member [APSys 2022](https://apsys2022.comp.nus.edu.sg/organization.html)
-
+PC Member [APSys 2022](https://apsys2022.comp.nus.edu.sg/organization.html)<br>
 Vice Session Char of "Resource allocation" [SOSP 2021](https://sosp2021.mpi-sws.org/program.html)<br>
-
 External Reviewer [IPDPS 2019](http://www.ipdps.org/ipdps2019/2019-.html)<br>
 External Reviewer [DATE 2019](https://past.date-conference.com/proceedings-archive/2019/)<br>
 External Reviewer [FPT 2018](http://www.fpt18.sakura.ne.jp/)<br>
