@@ -8,8 +8,9 @@ Before MIT, I worked on FPGA/programmable IO device with [Prof. Jason Cong](http
 
 ### Cloud Efficiency
 
-1. Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes<br>
-Under Submission<br>
+1. _Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes_<br>
+Zhenyuan Ruan, Seo Jin Park, Marcos Aguilera, Adam Belay, Malte Schwarzkopf<br>
+20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '23](https://www.usenix.org/conference/nsdi23))<br>
 
 2. _AIFM: High-Performance, Application-Integrated Far Memory_<br>
 Zhenyuan Ruan, Malte Schwarzkopf, Marcos Aguilera, Adam Belay<br>
