@@ -78,6 +78,7 @@ External Reviewer [FCCM 2018](http://www.fccm.org/past/2018/)<br>
 
 ## Teaching
 
-Teaching Assistant of MIT [6.828 Operating Systems Research Seminar](https://abelay.github.io/6828seminar/index.html).
+MIT [6.828 Operating Systems Research Seminar](https://abelay.github.io/6828seminar/index.html).<br>
+Teaching Assistant, Fall 2020, Fall 2022.
   
-(Last update: Jul 8, 2022)
+(Last update: Aug 13, 2022)
