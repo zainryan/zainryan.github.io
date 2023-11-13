@@ -1,4 +1,4 @@
-I am a fourth-year CS PhD candidate in the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, advised by [Prof. Adam Belay](http://www.abelay.me/). I am interested in operating system, distributed system, and hardware/software co-design.<br>
+I am a fifth-year CS PhD candidate in the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, advised by [Prof. Adam Belay](http://www.abelay.me/). I am interested in operating system, distributed system, and hardware/software co-design.<br>
 
 Before MIT, I worked on FPGA/programmable IO device with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) at UCLA and [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang-405a7648/?originalSubdomain=cn) at MSR-Asia.
 
@@ -79,18 +79,22 @@ Oct. 2016 - May. 2017.<br>
 
 ## Service  
 
-PC Member [APSys 2022](https://apsys2022.comp.nus.edu.sg/organization.html)<br>
-Vice Session Char of "Resource allocation" [SOSP 2021](https://sosp2021.mpi-sws.org/program.html)<br>
+PC member [APSys 2022](https://apsys2022.comp.nus.edu.sg/organization.html)<br>
+Vice session chair [SOSP 2021](https://sosp2021.mpi-sws.org/program.html)<br>
+Reviewer [IPDPS 2019](http://www.ipdps.org/ipdps2019/2019-.html)<br>
+Reviewer [DATE 2019](https://past.date-conference.com/proceedings-archive/2019/)<br>
+Reviewer [FPT 2018](http://www.fpt18.sakura.ne.jp/)<br>
+Reviewer [FCCM 2018](http://www.fccm.org/past/2018/)<br>
 Reviewer [IEEE TC](https://www.computer.org/csdl/journal/tc)<br>
+Reviewer [Springer JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture)<br>
 Reviewer [Springer FCS](https://www.springer.com/journal/11704)<br>
-External Reviewer [IPDPS 2019](http://www.ipdps.org/ipdps2019/2019-.html)<br>
-External Reviewer [DATE 2019](https://past.date-conference.com/proceedings-archive/2019/)<br>
-External Reviewer [FPT 2018](http://www.fpt18.sakura.ne.jp/)<br>
-External Reviewer [FCCM 2018](http://www.fccm.org/past/2018/)<br>
 
 ## Teaching
 
 MIT [6.828 Operating Systems Research Seminar](https://abelay.github.io/6828seminar/index.html).<br>
-Teaching Assistant, Fall 2020, Fall 2022.
-  
-(Last update: Jun 20, 2023)
+Teaching assistant and guest lecturer, Fall 2020, Fall 2022.
+
+MIT 6.829 Computer Networks.<br>
+Guest lecturer, Fall 2023
+
+(Last update: Nov 12, 2023)
