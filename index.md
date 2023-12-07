@@ -6,35 +6,38 @@ Before MIT, I worked on FPGA/programmable IO device with [Prof. Jason Cong](http
 
 ### Cloud Efficiency
 
-1. _Harvesting Idle Memory for Application-Managed Soft State with Midas_<br>
+1. _Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing_<br>
+Under one-shot revision.
+
+2. _Harvesting Idle Memory for Application-Managed Soft State with Midas_<br>
 Yifan Qiao, Zhenyuan Ruan, Haoran Ma, Adam Belay, Miryung Kim, Harry Xu<br>
 21th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '24](https://www.usenix.org/conference/nsdi24))<br>
 
-2. _Unleashing True Utility Computing with Quicksand_<br>
+3. _Unleashing True Utility Computing with Quicksand_<br>
 Zhenyuan Ruan, Shihang Li, Kaiyan Fan, Marcos K. Aguilera, Adam Belay, Seo Jin Park, Malte Schwarzkopf<br>
 The 19th Workshop on Hot Topics in Operating Systems ([HotOS '23](https://sigops.org/s/conferences/hotos/2023/))<br>
 
-3. _Hermit: Low-Latency, High-Throughput, and Transparent Remote Memory via Feedback-Directed Asynchrony_<br>
+4. _Hermit: Low-Latency, High-Throughput, and Transparent Remote Memory via Feedback-Directed Asynchrony_<br>
 Yifan Qiao, Chenxi Wang, Zhenyuan Ruan, Adam Belay, Qingda Lu, Yiying Zhang, Miryung Kim, Guoqing Harry Xu<br>
 20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '23](https://www.usenix.org/conference/nsdi23))<br>
 
-4. _Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes_<br>
+5. _Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes_<br>
 Zhenyuan Ruan, Seo Jin Park, Marcos Aguilera, Adam Belay, Malte Schwarzkopf<br>
 20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '23](https://www.usenix.org/conference/nsdi23))<br>
 
-5. _AIFM: High-Performance, Application-Integrated Far Memory_<br>
+6. _AIFM: High-Performance, Application-Integrated Far Memory_<br>
 Zhenyuan Ruan, Malte Schwarzkopf, Marcos Aguilera, Adam Belay<br>
 The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
-6. _Semeru: A Memory-Disaggregated Managed Runtime_<br>
+7. _Semeru: A Memory-Disaggregated Managed Runtime_<br>
 Chenxi Wang, Haoran Ma, Shi Liu, Yuanqi Li, Zhenyuan Ruan, Khanh Nguyen, Michael Bond, Ravi Netravali, Miryung Kim, Guoqing Harry Xu<br>
 The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
-7. _Caladan: Mitigating Interference at Microsecond Timescales_<br>
+8. _Caladan: Mitigating Interference at Microsecond Timescales_<br>
 Joshua Fried, Zhenyuan Ruan, Amy Ousterhout, Adam Belay<br>
 The 14th USENIX Symposium on Operating Systems Design  Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
-8. __★__ _Doppio: I/O-Aware Performance Analysis, Modeling  Optimization for In-Memory Computing Framework_<br>
+9. __★__ _Doppio: I/O-Aware Performance Analysis, Modeling  Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, Zhenyuan Ruan, Zhenman Fang, Jason Cong, Megan Sh, David Roazen <br>
 IEEE International Symposium on Performance Analysis of Systems  Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
 __Best Paper Nominee__
