@@ -29,13 +29,13 @@ Zhenyuan Ruan, Seo Jin Park, Marcos Aguilera, Adam Belay, Malte Schwarzkopf<br>
 Zhenyuan Ruan, Malte Schwarzkopf, Marcos Aguilera, Adam Belay<br>
 The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
-7. _Semeru: A Memory-Disaggregated Managed Runtime_<br>
-Chenxi Wang, Haoran Ma, Shi Liu, Yuanqi Li, Zhenyuan Ruan, Khanh Nguyen, Michael Bond, Ravi Netravali, Miryung Kim, Guoqing Harry Xu<br>
-The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
-
-8. _Caladan: Mitigating Interference at Microsecond Timescales_<br>
+7. _Caladan: Mitigating Interference at Microsecond Timescales_<br>
 Joshua Fried, Zhenyuan Ruan, Amy Ousterhout, Adam Belay<br>
 The 14th USENIX Symposium on Operating Systems Design  Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
+
+8. _Semeru: A Memory-Disaggregated Managed Runtime_<br>
+Chenxi Wang, Haoran Ma, Shi Liu, Yuanqi Li, Zhenyuan Ruan, Khanh Nguyen, Michael Bond, Ravi Netravali, Miryung Kim, Guoqing Harry Xu<br>
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
 9. __★__ _Doppio: I/O-Aware Performance Analysis, Modeling  Optimization for In-Memory Computing Framework_<br>
 Peipei Zhou, Zhenyuan Ruan, Zhenman Fang, Jason Cong, Megan Sh, David Roazen <br>
