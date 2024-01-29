@@ -82,7 +82,8 @@ Oct. 2016 - May. 2017.<br>
 
 ## Service  
 
-PC member [APSys 2022](https://apsys2022.comp.nus.edu.sg/organization.html)<br>
+Artifact evaluation committee [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts)<br>
+Program committee [APSys 2022](https://apsys2022.comp.nus.edu.sg/organization.html)<br>
 Vice session chair [SOSP 2021](https://sosp2021.mpi-sws.org/program.html)<br>
 Reviewer [IPDPS 2019](http://www.ipdps.org/ipdps2019/2019-.html)<br>
 Reviewer [DATE 2019](https://past.date-conference.com/proceedings-archive/2019/)<br>
@@ -100,4 +101,4 @@ Teaching assistant and guest lecturer, Fall 2020, Fall 2022.
 MIT 6.829 Computer Networks.<br>
 Guest lecturer, Fall 2023
 
-(Last update: Dec. 08, 2023)
+(Last update: Jan. 29, 2024)
