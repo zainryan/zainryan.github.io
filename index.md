@@ -31,19 +31,19 @@ The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI 
 
 7. [Caladan: Mitigating Interference at Microsecond Timescales](https://www.usenix.org/conference/osdi20/presentation/fried)<br>
 Joshua Fried, Zhenyuan Ruan, Amy Ousterhout, Adam Belay<br>
-The 14th USENIX Symposium on Operating Systems Design  Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
 8. [Semeru: A Memory-Disaggregated Managed Runtime](https://www.usenix.org/conference/osdi20/presentation/wang)<br>
 Chenxi Wang, Haoran Ma, Shi Liu, Yuanqi Li, Zhenyuan Ruan, Khanh Nguyen, Michael Bond, Ravi Netravali, Miryung Kim, Guoqing Harry Xu<br>
 The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
 
-9. __★__ [Doppio: I/O-Aware Performance Analysis, Modeling  Optimization for In-Memory Computing Framework](https://ieeexplore.ieee.org/document/8366932)<br>
+9. __★__ [Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework](https://ieeexplore.ieee.org/document/8366932)<br>
 Peipei Zhou, Zhenyuan Ruan, Zhenman Fang, Jason Cong, Megan Sh, David Roazen <br>
-IEEE International Symposium on Performance Analysis of Systems  Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
+IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
 __Best Paper Nominee__
 
-### Programmable IO Device (SmartNIC  Smart Drive)
-1. __★__ [Analyzing  Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform](https://ieeexplore.ieee.org/document/8942135)<br>
+### Programmable IO Device (SmartNIC and Smart Drive)
+1. __★__ [Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform](https://ieeexplore.ieee.org/document/8942135)<br>
 Zhenyuan Ruan, Tong He, Jason Cong.<br>
 2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
 __Best Paper Award__
