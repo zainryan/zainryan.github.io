@@ -6,8 +6,9 @@ Before MIT, I worked on FPGA/programmable IO device with [Prof. Jason Cong](http
 
 ### Cloud Efficiency
 
-1. _Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing_<br>
-Under one-shot revision.
+1. Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing<br>
+Zhenyuan Ruan, Shihang Li, Kaiyan Fan, Marcos K. Aguilera, Adam Belay, Seo Jin Park, Malte Schwarzkopf<br>
+22th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '25](https://www.usenix.org/conference/nsdi25))<br>
 
 2. [Harvesting Idle Memory for Application-Managed Soft State with Midas](https://www.usenix.org/conference/nsdi24/presentation/qiao)<br>
 Yifan Qiao, Zhenyuan Ruan, Haoran Ma, Adam Belay, Miryung Kim, Harry Xu<br>
