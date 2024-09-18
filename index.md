@@ -1,6 +1,6 @@
-I am a fifth-year CS PhD candidate in the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, advised by [Prof. Adam Belay](http://www.abelay.me/). I am interested in operating system, distributed system, and hardware/software co-design.<br>
+Currently, I work at [Renaissance Technologies](https://www.rentec.com/Home.action?index=true). I received my PhD in 2024 from the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, advised by [Prof. Adam Belay](http://www.abelay.me/). Before MIT, I worked with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) at UCLA and [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang-405a7648/?originalSubdomain=cn) at MSR-Asia.<br>
 
-Before MIT, I worked on FPGA/programmable IO device with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) at UCLA and [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang-405a7648/?originalSubdomain=cn) at MSR-Asia.
+I am interested in operating system, distributed system, and hardware/software co-design.<br>
 
 ## Publications
 
@@ -97,4 +97,4 @@ Teaching assistant and guest lecturer, Fall 2020, Fall 2022.
 MIT 6.829 Computer Networks.<br>
 Guest lecturer, Fall 2023
 
-(Last update: Jan. 29, 2024)
+(Last update: Sept. 17, 2024)
