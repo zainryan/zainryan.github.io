@@ -1,6 +1,6 @@
 I am a Systems Analyst Researcher at [Renaissance Technologies](https://www.rentec.com/Home.action?index=true). I received my PhD in 2024 from the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, advised by [Prof. Adam Belay](http://www.abelay.me/). Before MIT, I worked with [Prof. Jason Cong](http://vast.cs.ucla.edu/people/faculty/jason-cong) at UCLA and [Dr. Lintao Zhang](https://www.linkedin.com/in/lintao-zhang-405a7648/?originalSubdomain=cn) at MSR-Asia.<br>
 
-My research interests include operating system, distributed system, and hardware/software co-design.<br>
+Broadly speaking, my research interests include operating system, distributed system, and hardware/software co-design.<br>
 
 ## Publications
 
