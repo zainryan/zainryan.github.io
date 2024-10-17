@@ -1,6 +1,6 @@
 I am a Systems Analyst Researcher at [Renaissance Technologies](https://www.rentec.com/Home.action?index=true). 
 
-I received my PhD in 2024 from the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS. Broadly speaking, my research interests include operating system, distributed system, and hardware/software co-design.<br>
+I received my PhD in 2024 from the [PDOS](https://pdos.csail.mit.edu/) lab at MIT EECS, where my work focused on making datacenters faster and more resource-efficient. My broader research interests span operating systems, distributed systems, and hardware/software co-design.<br>
 
 ## Publications
 
