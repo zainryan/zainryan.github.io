@@ -97,4 +97,4 @@ Teaching assistant and guest lecturer, Fall 2020, Fall 2022.
 MIT 6.829 Computer Networks.<br>
 Guest lecturer, Fall 2023
 
-(Last update: Sept. 17, 2024)
+(Last update: Sept. 18, 2024)
