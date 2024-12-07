@@ -44,20 +44,25 @@ IEEE International Symposium on Performance Analysis of Systems and Software ([I
 __Best Paper Nominee__
 
 ### Programmable IO Device (SmartNIC and Smart Drive)
-1. __★__ [Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform](https://ieeexplore.ieee.org/document/8942135)<br>
+
+1. Fast and Scalable Selective Retransmission for RDMA<br>
+Peihao Huang, Guo Chen, Xin Zhang, Can Liu, Hongyu Wang, Huijun Shen, Ying Bian, Yuanwei Lu, Zhenyuan Ruan, Bojie Li, Jiansong Zhang, Yongfeng Liu, Zhigang Chen<br>
+2025 IEEE International Conference on Computer Communications ([INFOCOM'25](https://infocom2025.ieee-infocom.org))<br>
+
+3. __★__ [Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform](https://ieeexplore.ieee.org/document/8942135)<br>
 Zhenyuan Ruan, Tong He, Jason Cong.<br>
 2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
 __Best Paper Award__
 
-2. [INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive](https://www.usenix.org/conference/atc19/presentation/ruan)<br>
+4. [INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive](https://www.usenix.org/conference/atc19/presentation/ruan)<br>
 Zhenyuan Ruan, Tong He, Jason Cong<Br>
 2019 USENIX Annual Technical Conference ([USENIX ATC'19](https://www.usenix.org/conference/atc19))<br>
 
-3. [KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC](https://dl.acm.org/doi/10.1145/3132747.3132756)<br>
+5. [KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC](https://dl.acm.org/doi/10.1145/3132747.3132756)<br>
 Bojie Li\*, Zhenyuan Ruan\*, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, rew Putnam, Enhong Chen, Lintao Zhang (\*:co-first authors)<br>
 In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](https://www.sigops.org/s/conferences/sosp/2017/))
 
-4. [Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter](https://dl.acm.org/doi/10.1145/3106989.3106993)<br>
+6. [Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter](https://dl.acm.org/doi/10.1145/3106989.3106993)<br>
 Yuanwei Lu, Guo Chen, Zhenyuan Ruan, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, Peng Cheng, Enhong Chen<br>
 In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](https://conferences.sigcomm.org/events/apnet2017/program.html))
 
