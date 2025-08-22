@@ -4,77 +4,77 @@ I received my PhD in 2024 from the [PDOS](https://pdos.csail.mit.edu/) lab at MI
 
 ## Publications
 
-### Cloud Efficiency
+# Publications
 
-1. Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing<br>
-Zhenyuan Ruan, Shihang Li, Kaiyan Fan, Marcos K. Aguilera, Adam Belay, Seo Jin Park, Malte Schwarzkopf<br>
-22th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '25](https://www.usenix.org/conference/nsdi25))<br>
+1. **VeriLocc: End-to-End Cross-Architecture Register Allocation via LLM**  
+Lesheng Jin, Zhenyuan Ruan, Haohui Mai, Jingbo Shang  
+The 2025 Conference on Empirical Methods in Natural Language Processing ([EMNLP '25](https://openreview.net/forum?id=v4EzE7GBHV))  
 
-2. [Harvesting Idle Memory for Application-Managed Soft State with Midas](https://www.usenix.org/conference/nsdi24/presentation/qiao)<br>
-Yifan Qiao, Zhenyuan Ruan, Haoran Ma, Adam Belay, Miryung Kim, Harry Xu<br>
-21th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '24](https://www.usenix.org/conference/nsdi24))<br>
+2. **Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing**  
+Zhenyuan Ruan, Shihang Li, Kaiyan Fan, Marcos K. Aguilera, Adam Belay, Seo Jin Park, Malte Schwarzkopf  
+22th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '25](https://www.usenix.org/conference/nsdi25))  
 
-3. [Unleashing True Utility Computing with Quicksand](https://dl.acm.org/doi/10.1145/3593856.3595893)<br>
-Zhenyuan Ruan, Shihang Li, Kaiyan Fan, Marcos K. Aguilera, Adam Belay, Seo Jin Park, Malte Schwarzkopf<br>
-The 19th Workshop on Hot Topics in Operating Systems ([HotOS '23](https://sigops.org/s/conferences/hotos/2023/))<br>
+3. **Fast and Scalable Selective Retransmission for RDMA**  
+Peihao Huang, Guo Chen, Xin Zhang, Can Liu, Hongyu Wang, Huijun Shen, Ying Bian, Yuanwei Lu, Zhenyuan Ruan, Bojie Li, Jiansong Zhang, Yongfeng Liu, Zhigang Chen  
+2025 IEEE International Conference on Computer Communications ([INFOCOM'25](https://infocom2025.ieee-infocom.org))  
 
-4. [Hermit: Low-Latency, High-Throughput, and Transparent Remote Memory via Feedback-Directed Asynchrony](https://www.usenix.org/conference/nsdi23/presentation/qiao)<br>
-Yifan Qiao, Chenxi Wang, Zhenyuan Ruan, Adam Belay, Qingda Lu, Yiying Zhang, Miryung Kim, Guoqing Harry Xu<br>
-20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '23](https://www.usenix.org/conference/nsdi23))<br>
+4. **Harvesting Idle Memory for Application-Managed Soft State with Midas**  
+Yifan Qiao, Zhenyuan Ruan, Haoran Ma, Adam Belay, Miryung Kim, Harry Xu  
+21th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '24](https://www.usenix.org/conference/nsdi24))  
 
-5. [Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes](https://www.usenix.org/conference/nsdi23/presentation/ruan)<br>
-Zhenyuan Ruan, Seo Jin Park, Marcos Aguilera, Adam Belay, Malte Schwarzkopf<br>
-20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '23](https://www.usenix.org/conference/nsdi23))<br>
+5. **Unleashing True Utility Computing with Quicksand**  
+Zhenyuan Ruan, Shihang Li, Kaiyan Fan, Marcos K. Aguilera, Adam Belay, Seo Jin Park, Malte Schwarzkopf  
+The 19th Workshop on Hot Topics in Operating Systems ([HotOS '23](https://sigops.org/s/conferences/hotos/2023/))  
 
-6. [AIFM: High-Performance, Application-Integrated Far Memory](https://www.usenix.org/conference/osdi20/presentation/ruan)<br>
-Zhenyuan Ruan, Malte Schwarzkopf, Marcos Aguilera, Adam Belay<br>
-The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
+6. **Hermit: Low-Latency, High-Throughput, and Transparent Remote Memory via Feedback-Directed Asynchrony**  
+Yifan Qiao, Chenxi Wang, Zhenyuan Ruan, Adam Belay, Qingda Lu, Yiying Zhang, Miryung Kim, Guoqing Harry Xu  
+20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '23](https://www.usenix.org/conference/nsdi23))  
 
-7. [Caladan: Mitigating Interference at Microsecond Timescales](https://www.usenix.org/conference/osdi20/presentation/fried)<br>
-Joshua Fried, Zhenyuan Ruan, Amy Ousterhout, Adam Belay<br>
-The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
+7. **Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes**  
+Zhenyuan Ruan, Seo Jin Park, Marcos Aguilera, Adam Belay, Malte Schwarzkopf  
+20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI '23](https://www.usenix.org/conference/nsdi23))  
 
-8. [Semeru: A Memory-Disaggregated Managed Runtime](https://www.usenix.org/conference/osdi20/presentation/wang)<br>
-Chenxi Wang, Haoran Ma, Shi Liu, Yuanqi Li, Zhenyuan Ruan, Khanh Nguyen, Michael Bond, Ravi Netravali, Miryung Kim, Guoqing Harry Xu<br>
-The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))<br>
+8. **AIFM: High-Performance, Application-Integrated Far Memory**  
+Zhenyuan Ruan, Malte Schwarzkopf, Marcos Aguilera, Adam Belay  
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))  
 
-9. __★__ [Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework](https://ieeexplore.ieee.org/document/8366932)<br>
-Peipei Zhou, Zhenyuan Ruan, Zhenman Fang, Jason Cong, Megan Sh, David Roazen <br>
-IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))<br>
-__Best Paper Nominee__
+9. **Caladan: Mitigating Interference at Microsecond Timescales**  
+Joshua Fried, Zhenyuan Ruan, Amy Ousterhout, Adam Belay  
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))  
 
-### Programmable IO Device (SmartNIC and Smart Drive)
+10. **Semeru: A Memory-Disaggregated Managed Runtime**  
+Chenxi Wang, Haoran Ma, Shi Liu, Yuanqi Li, Zhenyuan Ruan, Khanh Nguyen, Michael Bond, Ravi Netravali, Miryung Kim, Guoqing Harry Xu  
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20))  
 
-1. Fast and Scalable Selective Retransmission for RDMA<br>
-Peihao Huang, Guo Chen, Xin Zhang, Can Liu, Hongyu Wang, Huijun Shen, Ying Bian, Yuanwei Lu, Zhenyuan Ruan, Bojie Li, Jiansong Zhang, Yongfeng Liu, Zhigang Chen<br>
-2025 IEEE International Conference on Computer Communications ([INFOCOM'25](https://infocom2025.ieee-infocom.org))<br>
+11. **Hardware Acceleration of Long Read Pairwise Overlapping in Genome Sequencing: A Race Between FPGA and GPU**  
+Licheng Guo, Ka Cheong Jason Lau, Zhenyuan Ruan, Peng Wei, Jason Cong  
+2019 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'19](http://www.fccm.org/past/2019/))  
 
-3. __★__ [Analyzing and Modeling In-Storage Computing Applications On EISC --- An FPGA-Based System-Level Emulation Platform](https://ieeexplore.ieee.org/document/8942135)<br>
-Zhenyuan Ruan, Tong He, Jason Cong.<br>
-2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))<br>
-__Best Paper Award__
+12. **Analyzing and Modeling In-Storage Computing Applications On EISC — An FPGA-Based System-Level Emulation Platform**  
+Zhenyuan Ruan, Tong He, Jason Cong  
+2019 International Conference On Computer Aided Design ([ICCAD'19](https://iccad.com))  
+__Best Paper Award__  
 
-4. [INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive](https://www.usenix.org/conference/atc19/presentation/ruan)<br>
-Zhenyuan Ruan, Tong He, Jason Cong<Br>
-2019 USENIX Annual Technical Conference ([USENIX ATC'19](https://www.usenix.org/conference/atc19))<br>
+13. **INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive**  
+Zhenyuan Ruan, Tong He, Jason Cong  
+2019 USENIX Annual Technical Conference ([USENIX ATC'19](https://www.usenix.org/conference/atc19))  
 
-5. [KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC](https://dl.acm.org/doi/10.1145/3132747.3132756)<br>
-Bojie Li\*, Zhenyuan Ruan\*, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, rew Putnam, Enhong Chen, Lintao Zhang (\*:co-first authors)<br>
-In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](https://www.sigops.org/s/conferences/sosp/2017/))
+14. **ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA**  
+Zhenyuan Ruan, Tong He, Bojie Li, Peipei Zhou, Jason Cong  
+2018 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'18](http://www.fccm.org/past/2018/))  
 
-6. [Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter](https://dl.acm.org/doi/10.1145/3106989.3106993)<br>
-Yuanwei Lu, Guo Chen, Zhenyuan Ruan, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, Peng Cheng, Enhong Chen<br>
-In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](https://conferences.sigcomm.org/events/apnet2017/program.html))
+15. **Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework**  
+Peipei Zhou, Zhenyuan Ruan, Zhenman Fang, Jason Cong, Megan Sh, David Roazen  
+IEEE International Symposium on Performance Analysis of Systems and Software ([ISPASS'18](https://www.ispass.org/ispass2018/))  
+__Best Paper Nominee__  
 
-### FPGA
-  
-1. [Hardware Acceleration of Long Read Pairwise Overlapping in Genome Sequencing: A Race Between FPGA and GPU](https://ieeexplore.ieee.org/document/8735515)<br>
-Licheng Guo, Ka Cheong Jason Lau, Zhenyuan Ruan, Peng Wei, Jason Cong<br>
-2019 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'19](http://www.fccm.org/past/2019/))<br>
+16. **KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC**  
+Bojie Li\*, Zhenyuan Ruan\*, Wencong Xiao, Yuanwei Lu, Yongqiang Xiong, Drew Putnam, Enhong Chen, Lintao Zhang (\*:co-first authors)  
+In Proceedings of the 26th Symposium on Operating Systems Principles ([SOSP'17](https://www.sigops.org/s/conferences/sosp/2017/))  
 
-2. [ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA](https://ieeexplore.ieee.org/document/8457626/)<br>
-Zhenyuan Ruan, Tong He, Bojie Li, Peipei Zhou, Jason Cong<br>
-2018 IEEE International Symposium on Field-Programmable Custom Computing Machines ([FCCM'18](http://www.fccm.org/past/2018/))<br>
+17. **Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter**  
+Yuanwei Lu, Guo Chen, Zhenyuan Ruan, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, Peng Cheng, Enhong Chen  
+In Proceedings of the First Asia-Pacific Workshop on Networking ([APNet'17](https://conferences.sigcomm.org/events/apnet2017/program.html))  
 
 ## Experience
 
