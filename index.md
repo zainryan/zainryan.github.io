@@ -4,8 +4,8 @@ I received my PhD in 2024 from the [PDOS](https://pdos.csail.mit.edu/) lab at MI
 
 ## Publications
 
-Unleashing The Potential of Datacenter SSDs by Taming Performance Variability
-Gohar Irfan Chaudhry, Ankit Bhardwaj, Zhenyuan Ruan, Adam Belay
+Unleashing The Potential of Datacenter SSDs by Taming Performance Variability  
+Gohar Irfan Chaudhry, Ankit Bhardwaj, Zhenyuan Ruan, Adam Belay  
 23rd USENIX Symposium on Networked Systems Design and Implementation ([NSDI '26](https://www.usenix.org/conference/nsdi26)) 
 
 VeriLocc: End-to-End Cross-Architecture Register Allocation via LLM  
